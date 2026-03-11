@@ -1,6 +1,6 @@
 // GEO OFFER LINKS
-const czLink = "https://check-link.click/a/ERKgXupp1LsPQkl";
-const globalLink = "https://safeoffers.pro/a/yPp4AI32ZfQ47G";
+const czLink = "https://safeoffers.pro/a/G6wkXTLKALfpyp2";
+const globalLink = "https://safeoffers.pro/a/G6wkXTLKALfpyp2";
 
 // ROTATING IMAGES
 const images = [
